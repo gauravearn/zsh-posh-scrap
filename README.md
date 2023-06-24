@@ -4,20 +4,17 @@ ZSH_POSH_web_scrapping: Yesterday night i was finishing my installation of the m
 The snipped you can use. The check.txt is the contents of the webpage, you can use curl -o to take all the webpage contents from the nerd fonts https://www.nerdfonts.com/
 and save it as text and then you can use the first command to save the contents from the page to all_fonts.txt and then use the second line to install the font which you like. 
 
-if you have any questions, I am reachable at 
-Senior Postdoctoral Fellow
-*Faculty of Natural and Agricultural Sciences*
-Room 7-35, Agricultural Sciences Building
-University of Pretoria, Private Bag X20
-Hatfield 0028, South Africa
-ORCID: https://orcid.org/0000-0002-4157-9405
-WOS: https://www.webofscience.com/wos/author/record/C-5940-2014
-Github:https://github.com/sablokgaurav
-Linkedln: https://www.linkedin.com/in/sablokgaurav/
-ResearchGate: https://www.researchgate.net/profile/Gaurav-Sablok
-Academia : https://up-za.academia.edu/GauravSablok
-Plant Bioinformatics | Illumina | PacBio | OxfordNanoPore 
-| Transcriptomics | Genomics | Metagenomics | DevOPS | 
-Data Engineering and Analyst | Python | Java | Scala | 
-Bash | DJANGO | Machine Learning
-*From next week onwards not available on Linkedin untill end July 2023
+Gaurav Sablok \
+Senior Postdoctoral Fellow \
+Faculty of Natural and Agricultural Sciences Room 7-35, \
+Agricultural Sciences Building University of Pretoria, \
+Private Bag X20 Hatfield 0028, South Africa \
+ORCID: https://orcid.org/0000-0002-4157-9405 \
+WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
+Github:https://github.com/sablokgaurav \
+Linkedln: https://www.linkedin.com/in/sablokgaurav/ \
+ResearchGate: https://www.researchgate.net/profile/Gaurav-Sablok \
+Academia : https://up-za.academia.edu/GauravSablok \
+Plant Bioinformatics | Illumina | PacBio | OxfordNanoPore | Transcriptomics | \
+Genomics | Metagenomics | DevOPS | Data Engineering and Analyst | \
+Python | R | Java | Scala | Bash | DJANGO | Machine Learning \
