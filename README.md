@@ -3,7 +3,7 @@ The check.txt is the contents of the webpage, you can use curl -o to take all th
 
 ![Code](https://github.com/sablokgaurav/ZSH_POSH_web_scrapping/blob/main/web_scrapping_oh-my-posh-fonts.png)
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
